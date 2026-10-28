@@ -1,0 +1,21 @@
+bug_id,title,description,component
+DEMO-1,NPE when saving a file in the Java editor,,major
+DEMO-2,NPE when saving file in Java editor,,major
+DEMO-3,Firefox crashes on startup after update,,critical
+DEMO-4,Firefox crashes at startup after the update,,critical
+DEMO-5,Typo in preferences dialog,,trivial
+DEMO-6,Typo in the preferences dialog,,trivial
+DEMO-7,Build is very slow on large projects,,normal
+DEMO-8,Build very slow on large projects,,normal
+DEMO-9,Can't delete history entries from the library,,normal
+DEMO-10,Cannot delete some history entries,,normal
+DEMO-11,Add dark mode to the settings page,,minor
+DEMO-12,Database connection times out after 30 seconds,,major
+DEMO-13,Password reset email is never sent,,major
+DEMO-14,Menu item missing in the file menu,,minor
+DEMO-15,Data loss when closing the window during save,,blocker
+DEMO-16,Update documentation for the export feature,,trivial
+DEMO-17,Search results are sorted incorrectly,,normal
+DEMO-18,Crash in the garbage collector under heavy load,,critical
+DEMO-19,Button label is cut off on small screens,,minor
+DEMO-20,Tooltip text has a spelling mistake,,trivial

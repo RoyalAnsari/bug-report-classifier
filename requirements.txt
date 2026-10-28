@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+datasets
+streamlit>=1.30
+plotly
+pytest

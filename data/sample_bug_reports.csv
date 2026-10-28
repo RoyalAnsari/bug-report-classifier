@@ -1,0 +1,9 @@
+bug_id,title,description,component
+1,App crashes on startup,The application closes immediately after the splash screen on launch.,UI
+2,Crash when opening the app,Launching the program makes it quit right away with no error message.,UI
+3,Login fails with valid password,Users with correct credentials still see an invalid password error.,Auth
+4,Cannot sign in,Correct username and password are rejected on the sign in page.,Auth
+5,Report export is very slow,Exporting a report with 10000 rows takes more than five minutes.,Performance
+6,Database timeout on search,Search queries time out after 30 seconds on large tables.,Database
+7,Button text is cut off,The Save button label is truncated on small screens.,UI
+8,Password reset email not sent,No email arrives after clicking Forgot password.,Auth

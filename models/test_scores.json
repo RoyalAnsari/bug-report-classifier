@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.736870026525199,
+  "precision_macro": 0.3323203734640739,
+  "recall_macro": 0.38034168417477665,
+  "f1_macro": 0.35165583768367287,
+  "f1_weighted": 0.750756329663955,
+  "best_model": "linear_svm",
+  "majority_baseline_accuracy": 0.8143236074270557,
+  "class_weight": "balanced",
+  "stemming": false,
+  "seed": 42
+}
